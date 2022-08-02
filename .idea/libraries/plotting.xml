@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="plotting">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/libs/jzy3d" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/libs/jzy3d" recursive="false" />
+  </library>
+</component>
